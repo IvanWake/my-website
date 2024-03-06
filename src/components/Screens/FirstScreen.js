@@ -13,7 +13,7 @@ const FirstScreen = () => {
                             offset={-70}
                             duration={600}
                         >
-                            <div className="text-[20px] font-cmedium cursor-pointer">ГИТАРА</div>
+                            <div className="text-[20px] font-cmedium cursor-pointer hover:underline">ГИТАРА</div>
                         </Link>
                         <Link
                             to="gymWork"
@@ -22,7 +22,7 @@ const FirstScreen = () => {
                             offset={-70}
                             duration={1100}
                         >
-                            <div className="text-[20px] font-cmedium cursor-pointer">СПОРТЗАЛ</div>
+                            <div className="text-[20px] font-cmedium cursor-pointer hover:underline">СПОРТЗАЛ</div>
                         </Link>
                         <Link
                             to="webDev"
@@ -31,7 +31,7 @@ const FirstScreen = () => {
                             offset={-70}
                             duration={1700}
                         >
-                            <div className="text-[20px] font-cmedium cursor-pointer">ВЕБ-РАЗРАБОТКА</div>
+                            <div className="text-[20px] font-cmedium cursor-pointer hover:underline">ВЕБ-РАЗРАБОТКА</div>
                         </Link>
                     </header>
                 </div>
