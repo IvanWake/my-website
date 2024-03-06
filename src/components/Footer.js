@@ -33,13 +33,13 @@ const Footer = () => {
                             <div className="flex flex-col">
                                 <a href="https://www.instagram.com/purplebaby_dev/">
                                     <div className="flex items-center space-x-[10px]">
-                                        <img src={instagram} alt="inst" width="90"/>
+                                        <img src={instagram} alt="inst"/>
                                         <h1 className="text-[20px]">INSTAGRAM</h1>
                                     </div>
                                 </a>
                                 <a href="https://efficacious-moonstone-841.notion.site/9bcc7dbda01e4de381e9b557d7e80f84?pvs=4">
                                     <div className="flex items-center space-x-[10px]">
-                                        <img src={notion} alt="notion" width="105"/>
+                                        <img src={notion} alt="notion"/>
                                         <h1 className="text-[20px]">NOTION</h1>
                                     </div>
                                 </a>
